@@ -38,6 +38,9 @@
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
         <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+        <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
+  <img src="https://cdn.getmidnight.com/26ffcef53c44522efbfe7fef964a4058/2023/02/untitled-1-.png" alt="jetpack-compose" width="40" height="40"/>
+</a>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
                 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text-thumbnail.png" alt="css3" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -68,6 +71,9 @@
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
         <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
         <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
+        <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png?20150209215936" alt="virtualbox" width="40" height="40"/>
+</a>
       </td>
     </tr>
     <tr>
