@@ -18,8 +18,8 @@
 <a href="https://twitter.com/@ravindar_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ravindar_27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravindar-arularasu-99570a257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindar-arularasu-99570a257" height="30" width="40" /></a>
 <a href="https://instagram.com/___.ravindar.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___.ravindar.___" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ravindar2732005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ravindar2732005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ravindar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravindar03" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ravindar2732005" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravindar03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technologies and Tools:</h3>
