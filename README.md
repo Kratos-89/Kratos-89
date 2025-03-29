@@ -58,13 +58,41 @@
       <td><b>DevOps Tools</b></td>
       <td>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-        <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+<!--         <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> -->
         <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
         <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
         <a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="sonarqube" width="40" height="40"/> </a>
         <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/> </a>
       </td>
     </tr>
+     <tr>
+    <td><b>CI/CD Tools</b></td>
+    <td>
+      <!-- Jenkins -->
+      <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+      </a>
+      <!-- ArgoCD -->
+      <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
+        <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" alt="ArgoCD" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+
+  <!-- Monitoring Tools Section -->
+  <tr>
+    <td><b>Monitoring Tools</b></td>
+    <td>
+      <!-- Prometheus -->
+      <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" width="40" height="40"/>
+      </a>
+      <!-- Grafana -->
+      <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+        <img src="https://icon.icepanel.io/Technology/svg/Grafana.svg" alt="Grafana" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
     <tr>
       <td><b>Virtualization</b></td>
       <td>
